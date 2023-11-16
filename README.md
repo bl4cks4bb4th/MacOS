@@ -1,1 +1,1 @@
-# NewMac
+# MacOS
